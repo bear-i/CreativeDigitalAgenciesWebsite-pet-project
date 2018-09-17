@@ -1,0 +1,43 @@
+@font-face{
+	font-family: 'Gotham';
+	src: url('../fonts/GothamPro/GothamPro-Medium.woff') format('woff'),
+		url('../fonts/GothamPro/GothamPro-Medium.ttf') format('ttf');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face{
+	font-family: 'Gotham';
+	src: url('../fonts/GothamPro/GothamPro-Bold.woff') format('woff'),
+		url('../fonts/GothamPro/GothamPro-Bold.ttf') format('ttf');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face{
+	font-family: 'GothamBook';
+	src: url('../fonts/GothamBook/GothamBook.woff') format('woff'),
+		url('../fonts/GothamBook/GothamBook.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face{
+	font-family: 'Myriad';
+	src: url('../fonts/MyriadPro/MyriadPro-Regular.woff') format('woff'),
+		url('../fonts/MyriadPro/MyriadPro-Regular.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face{
+	font-family: "OpenSans";
+	src: url("../fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+		url("../fonts/OpenSansRegular/OpenSansRegular.ttf") format("ttf");
+	font-weight: normal;
+	font-style: normal;
+}
+
+ 
+
